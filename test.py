@@ -1,2 +1,2 @@
-a = "somthing..."
+a = "somthing..........."
 print("a is",a)
